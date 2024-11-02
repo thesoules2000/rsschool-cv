@@ -39,7 +39,7 @@ ___
 ### LANGUAGES
 * English: B1
 * Belarusian: Native
-* English: Native
+* Russian: Native
 
 ___
 

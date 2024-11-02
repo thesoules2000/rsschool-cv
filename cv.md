@@ -2,18 +2,22 @@
 ___
 ### SQL Developer
 ___
-#### CONTACT INFO:
+### CONTACT INFO:
 * Phone: +375296546913
 * Telegram: @vasillkka
 * Email: [maksim.vasileuskij@gmail.com](mailto:maksim.vasileuskij@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/maksim-vasileuski-2a267822a/)
 * [GitHub](https://github.com/thesoules2000)
+
 ___
+
 ### PROFILE
 SQL Developer with 2+ years experience in working with complex
 database systems and supporting various accounting applications.
 Skilled in developing and optimizing databases.
+
 ___
+
 ### SKILLS
 * HTML5, CSS3, SASS
 * JavaScript Basics, C#, .NET
@@ -28,14 +32,17 @@ ___
 * Analytical Thinking Skills
 * Fast Learner
 * Ability to Work Under Pressure
-* Creative Problem Solving
+* Creative Problem-Solving
+
 ___
 
 ### LANGUAGES
 * English: B1
 * Belarusian: Native
 * English: Native
+
 ___
+
 ### EMPLOYMENT HISTORY
 
 SQL Developer, MAPSOFT\
@@ -60,7 +67,9 @@ software.
 Due to a shortage of staff, I had to learn all aspects of the work on
 my own without guidance from a mentor. By gradually studying and
 correcting mistakes, I gained deep knowledge and valuable experience.
+
 ___
+
 ### EDUCATION AND COURSER
 IT software , College of Business and Law\
 Minsk, Belarus\
